@@ -981,7 +981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c72928706ee2af49a25b2f1aea73832, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  speed: 5
+  speed: 1
   hasPowerup: 0
   powerupIndicator: {fileID: 1223761162}
 --- !u!1001 &7305732181041295649
